@@ -1,0 +1,6 @@
+C:\xampp\htdocs\git_3\podstawy programowania\1_first_fire\bin\Debug\1_first_fire.exe.config
+C:\xampp\htdocs\git_3\podstawy programowania\1_first_fire\bin\Debug\1_first_fire.exe
+C:\xampp\htdocs\git_3\podstawy programowania\1_first_fire\bin\Debug\1_first_fire.pdb
+C:\xampp\htdocs\git_3\podstawy programowania\1_first_fire\obj\Debug\1_first_fire.csprojAssemblyReference.cache
+C:\xampp\htdocs\git_3\podstawy programowania\1_first_fire\obj\Debug\1_first_fire.exe
+C:\xampp\htdocs\git_3\podstawy programowania\1_first_fire\obj\Debug\1_first_fire.pdb

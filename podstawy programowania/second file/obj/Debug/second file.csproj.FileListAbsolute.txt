@@ -1,0 +1,6 @@
+C:\xampp\htdocs\git_3\podstawy programowania\second file\obj\Debug\second file.csprojAssemblyReference.cache
+C:\xampp\htdocs\git_3\podstawy programowania\second file\bin\Debug\second file.exe.config
+C:\xampp\htdocs\git_3\podstawy programowania\second file\bin\Debug\second file.exe
+C:\xampp\htdocs\git_3\podstawy programowania\second file\bin\Debug\second file.pdb
+C:\xampp\htdocs\git_3\podstawy programowania\second file\obj\Debug\second file.exe
+C:\xampp\htdocs\git_3\podstawy programowania\second file\obj\Debug\second file.pdb

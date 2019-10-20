@@ -1,0 +1,6 @@
+C:\xampp\htdocs\git_3\podstawy programowania\3_file\bin\Debug\3_file.exe.config
+C:\xampp\htdocs\git_3\podstawy programowania\3_file\bin\Debug\3_file.exe
+C:\xampp\htdocs\git_3\podstawy programowania\3_file\bin\Debug\3_file.pdb
+C:\xampp\htdocs\git_3\podstawy programowania\3_file\obj\Debug\3_file.csprojAssemblyReference.cache
+C:\xampp\htdocs\git_3\podstawy programowania\3_file\obj\Debug\3_file.exe
+C:\xampp\htdocs\git_3\podstawy programowania\3_file\obj\Debug\3_file.pdb
